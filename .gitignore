@@ -3,3 +3,14 @@
 
 ## netbeans
 /nbproject/private/
+
+## JustWriting
+/JustWriting/*
+!/JustWriting/.htaccess
+!/JustWriting/settings.php
+!/JustWriting/posts/
+!/JustWriting/posts/images/
+/JustWriting/posts/index.html
+/JustWriting/posts/test2.md
+/JustWriting/posts/justwriting.md
+/JustWriting/posts/images/preview_deepure.png
