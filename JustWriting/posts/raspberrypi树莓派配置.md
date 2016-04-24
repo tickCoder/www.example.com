@@ -1,3 +1,7 @@
+Status: public
+Toc: yes
+
+
 # 安装系统
 
 下载树莓派官方系统raspbian，下载地址：  
